@@ -2,6 +2,7 @@
 In this challenge we learnt about relative paths (The ones which do not start with a /). We also learnt that the current working directory does'nt matter for relative paths
 (cwd is the direcotry that your prompt is currently located at). In this challenge we were required to invoke the right relative path. We were given a hint that the right 
 relative path stared with a 'c', the first thought I had was why not just remove the / in /challenge/run and try it out. Crazy thing is it was the right one.
+# Command Line
 ```
 Connected!
 hacker@paths~implicit-relative-paths-from-:~$ /challenge/run
