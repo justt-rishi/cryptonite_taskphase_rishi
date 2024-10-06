@@ -1,6 +1,7 @@
 # Postion Yet Elsewhere
 This agn same as the previous challenge(Position elsewhere) requires us to use the cd command to navigate to the right directory and excute the command /challenge/run to obtain
 the flag. In this challenge the right directory was /proc/67 directory.
+# Command Line
 ```
 Connected!
 hacker@paths~position-yet-elsewhere:~$ /challenge/run
