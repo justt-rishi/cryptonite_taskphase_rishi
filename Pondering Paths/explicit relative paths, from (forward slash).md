@@ -5,6 +5,7 @@ it make identical absolute paths for example,
 /./do
 /do/. etc etc are all the same.
 In this challenge we were asked to use the . in our relative paths to get the flag. 
+# Command Line
 ```
 Connected!
 hacker@paths~explicit-relative-paths-from-:~$ /challenge/run
