@@ -1,5 +1,6 @@
 # The Root
 In This Challenge, I learned what Absolute Directories are and how to use them. In this challenge '/'was the the absolute directory.
+# Command Line
 ```
 Connected!
 hacker@paths~the-root:~$ /pwn
