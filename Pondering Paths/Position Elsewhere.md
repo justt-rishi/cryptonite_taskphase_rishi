@@ -1,6 +1,7 @@
 # Position Elsewhere
 In this Challenge we got more practice on using the cd command to navigate around the directories. In this specific challenge we were required to move to the /tmp directory to 
 find the file.
+# Command Line
 ```
 Connected!
 hacker@paths~position-elsewhere:~$ /challenge/run
