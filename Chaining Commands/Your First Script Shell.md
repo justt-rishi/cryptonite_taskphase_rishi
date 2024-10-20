@@ -1,5 +1,5 @@
 # Your First Script Shell
-In this we had to create a shell script and append the /challenge/pwn and the /challenge/run into the x.h shell script. I had to research on how to write a script shell. I did is
+In this we had to create a shell script and append the /challenge/pwn and the /challenge/run into the x.sh shell script. I had to research on how to write a script shell. I did is
 using the nano command like below:-
 ## Command Line
 ```
